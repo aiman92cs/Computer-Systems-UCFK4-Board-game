@@ -1,6 +1,6 @@
 Paper, Scissors, Rock - 2 player game designed for the UCFK4.
 
-Designed by David Bredda and Aiman Hazashah - October 2017
+Designed by Aiman Hazashah and David Bredda- October 2017
 
 INSTRUCTIONS
 1) Upon starting, both players will be greeted by a welcome message. The push
